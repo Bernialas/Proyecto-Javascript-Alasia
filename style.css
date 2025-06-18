@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+.producto {
+    margin-bottom: 20px;
+}
+.variedad {
+    margin-left: 20px;
+}
+button {
+    margin: 5px;
+}
