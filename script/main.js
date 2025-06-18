@@ -124,10 +124,17 @@ function mostrarResumen() {
     alert(resumen);
     console.log(resumen);
 }
+function iniciarSimulador() {
+    alert("¡Bienvenido al simulador de carrito de compras!");
+    mostrarProductos();
+    agregarAlCarrito();
+    mostrarResumen();
+}
+
 
 // Ejecución
-alert("¡Bienvenido al simulador de carrito de compras!");
-mostrarProductos();
-agregarAlCarrito();
-mostrarResumen();
+// alert("¡Bienvenido al simulador de carrito de compras!");
+// mostrarProductos();
+// agregarAlCarrito();
+// mostrarResumen();
 
